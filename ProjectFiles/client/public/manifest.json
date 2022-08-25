@@ -1,0 +1,15 @@
+{
+  "short_name": "Super Hero Central",
+  "name": "CIS 550 - Super Hero Central",
+  "icons": [
+    {
+      "src": "superman.svg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
